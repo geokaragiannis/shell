@@ -1,6 +1,4 @@
 //Name: Georgios Karagiannis (gekaragi)
-//ID: 1441585
-//email: gekaragi@ucsc.edu
 //Class: CMPS 111-02
 //Winter 2017
 
