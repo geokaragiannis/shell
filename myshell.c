@@ -1,6 +1,4 @@
-//Name: Georgios Karagiannis (gekaragi)
-//Class: CMPS 111-02
-//Winter 2017
+//Name: Georgios Karagiannis
 
 #include    <stdio.h>
 #include    <unistd.h>
